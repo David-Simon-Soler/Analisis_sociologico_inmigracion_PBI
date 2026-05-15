@@ -1,4 +1,4 @@
-#Análisis de percepción social: inmigración en españa (CIS)
+#Análisis de percepción social: inmigración en españa (CIS, 2017)
 
 Este proyecto es un resumen de un informe realizado en la asignatura de Análisis de datos II en la carrera de sociología en la Universidad de Alicante. 
 
@@ -6,7 +6,7 @@ Este informe recogía datos sobre la percepción de los españoles ante los inmi
 
 Sin enmabrgo, he decidido darle una vuelta e intentar usar en vez de SPSS, usar Python para la limpieza de datos empleando Pandas para la limpieza de datos y la transformación de estos mediante el proceso ETL. Y para poder visualizarlos mejor, en lugar de usar matplotlib, he usado Power BI para la visualización de estas variables. 
 
-Para este dashboard, he seleccionado y transformado las variables del estudio 3190 del CIS para poder centrar el analisis entre el perfil sociodemográfico y el prejuicio percibido. 
+Para este dashboard, he seleccionado y transformado las variables del estudio 3190 del CIS  para poder centrar el analisis entre el perfil sociodemográfico y el prejuicio percibido. 
 
 Las variables independientes son las siguientes: 
 - Nivel de estudios: variable usada para medir el capital cultural, la cual se analiza desde estudios primarios hasta doctorado para observar cómo la formación influye en la apertura hacia la alteridad.
